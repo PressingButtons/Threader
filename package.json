@@ -2,7 +2,6 @@
     "name":"threader",
     "description": "Classes to work as boiler/messenger connectors between Workers",
     "author": {
-        "email": "stevenboyd221@gmail.com",
         "name": "Steven Boyd",
         "url": "https://sboyd.dev"
     },
